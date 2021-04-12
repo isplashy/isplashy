@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WithersWorld
+- 👋 Hi, I’m WithersWorld
 - I love gaming and coding
   - Minecraft
   - Visual Studio Code
@@ -9,5 +9,13 @@
   - Python 30%
   - Shell 30%
   - Java 10%
+- I'm a learning youtuber
+  - Editing 40%
+  - Publishing 80%
+  - Rate 1 video per month
+- I'm a noob gamer
+  - Minecraft Survival 60%
+  - Mincraft Battles 30%
+  - Rocket League 20%
 - My Apps:
   - Youtube[]
