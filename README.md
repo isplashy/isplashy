@@ -1,21 +1,5 @@
-- 👋 Hi, I’m WithersWorld
-- I love gaming and coding
-  - Minecraft
-  - Visual Studio Code
-- I'm a learning programmer
-  - HTML 90%
-  - CSS 90%
-  - JavaScript 40%
-  - Python 30%
-  - Shell 30%
-  - Java 10%
-- I'm a learning youtuber
-  - Editing 40%
-  - Publishing 80%
-  - Rate 1 video per month
-- I'm a noob gamer
-  - Minecraft Survival 60%
-  - Mincraft Battles 30%
-  - Rocket League 20%
-- My Apps:
-  - Youtube[]
+Hi I'm Splashy, I go by Splash. Nice to meet you.
+- I'm a learning coder
+- I will create Slash and Crash
+  - Just wait and see
+
