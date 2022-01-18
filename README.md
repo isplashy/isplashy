@@ -1,4 +1,4 @@
-**Hi there, I'm Splashy**
+**Hi there, I'm Zero**
 <hr />
 <img src="https://img.shields.io/badge/slashDEV-slash-red"/>
 
