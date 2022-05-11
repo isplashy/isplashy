@@ -10,9 +10,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000)](https://github.com/zer0less/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000)](https://github.com/zer0less/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zer0less&hide_border=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000)](https://github.com/zer0less/github-readme-stats)
 
 **Things I like to do:**
  - Coding
  - Playing video games
+ - Designing
 
