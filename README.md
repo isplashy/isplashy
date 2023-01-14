@@ -1,5 +1,5 @@
+<p align="center"><img align="center" src="https://zer0less.vercel.app/img/pfp.png" width="15%"/></p>
 <p align="center">
-  
   <h1 align="center">Zero</h1>
 </p>
 <p align="center">
@@ -8,23 +8,27 @@
 </p>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0less&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0less&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
 </div>
 
-<hr>
+<hr><p align="center">
+A small coder that hopes to becomes a famous one. I started some projects and will start more in the future.
+</p><hr>
 
-## Discord Bots
+## Projects
 
-### Alias
+### Discord Bots
 
-> Moderating and fun! Seems so cool, right?
+> Alias
 
-> Still in development
+> Paradise
 
-### Paradise
+### VS Code Extension
 
-> A cute and caring bot made for everyone
+> Dev Space
 
-> Still in development
+### Slash
+
+> SlashPack
