@@ -1,4 +1,3 @@
-<p align="center"><img align="center" src="https://zer0less.vercel.app/img/pfp.png" width="15%"/></p>
 <p align="center">
   <h1 align="center">Zero</h1>
 </p>
@@ -20,16 +19,6 @@
 
 ## Projects
 
-### Discord Bots
-
-> Alias
-
-> Paradise
-
 ### VS Code Extension
 
 > Dev Space
-
-### Slash
-
-> SlashPack
