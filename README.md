@@ -12,13 +12,35 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
 </div>
 
-<hr><p align="center">A small coder that hopes to becomes a famous one. I started some projects and will start more in the future.</p>
+<hr><p align="center">A small coder that hopes to become a famous one. I started some projects and will start more in the future.</p>
 <p align="center">"Once a coder, always a coder"</p>
 <p align="center"><a href="https://zer0less.vercel.app/">About me</a></p>
 <hr>
 
 ## Projects
 
-### VS Code Extension
+### > Alias [Discord Bot] {JS, Node.js, Discord.js, Firebase}
 
-> Dev Space
+### > Dev Space [VS Code Extension] {JS, Yo, VSCE}
+
+### > meWebsite [Resume Website] {JS, React, Node.js, Next.js} (in construction)
+
+## Tools
+
+### Languages
+
+> HTML(.html), CSS(.css), JavaScript(.js), TypeScript(.ts), React(.jsx/tsx)
+
+> Java(.java), Python(.py), C(.c), C++(.cpp), H(.h)
+
+### Works
+
+> Node.js, Next.js, Angular.js
+
+### APIs
+
+> Discord.js, Firebase
+
+### IDEs
+
+> VSCode, Eclipse, IntelliJ IDEA, PyCharm, CLion, XCode
