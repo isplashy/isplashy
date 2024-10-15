@@ -8,9 +8,9 @@
 </p>
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0less&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0code9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
   <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0less&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0code9&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
 </div>
 
 <hr>
@@ -25,11 +25,11 @@
 
 ## Projects
 
-### > Alias [Discord Bot] {JS, Node.js, Discord.js, Firebase}
+- Alias [Discord Bot] {JS, Node.js, Discord.js, Firebase}
 
-### > Dev Space [VS Code Extension] {JS, Yo, VSCE}
+- Dev Space [VS Code Extension] {JS, Yo, VSCE}
 
-### > meWebsite [Resume Website] {JS, React, Node.js, Next.js} (in construction)
+- meWebsite [Resume Website] {JS, React, Node.js, Next.js} (in construction)
 
 ## Tools
 
