@@ -3,7 +3,7 @@
   <h1 align="center">zer0code</h1>
 </p>
 <p align="center" style="text-decoration: none">
-  <a href="https://github.com/SlashDEV"><img src="https://img.shields.io/badge/slashDEV-zer0code-red?logo=javascript&logoColor=red" /></a>
+  <a href="https://github.com/SlashDEV9"><img src="https://img.shields.io/badge/slashDEV-zer0code-red?logo=javascript&logoColor=red" /></a>
   <a href="https://wakatime.com/@360b9b99-ab30-48e8-8c3b-7722027bf78d"><img src="https://wakatime.com/badge/user/360b9b99-ab30-48e8-8c3b-7722027bf78d.svg" /></a>
 </p>
 
@@ -19,19 +19,22 @@
   <p>"Once a coder, always a coder"</p>
   <p><a href="https://zer0less.vercel.app/">About me</a></p>
   <p>Favotire Language: JavaScript</p>
-  <p>Favotire Work: Node.js</p>
+  <p>Favotire Work: React.js</p>
   <p>Favotire API: Discord.js</p>
+  <p>Favorite Database: Firebase</p>
   <p>Favotire IDE: VSCode</p>
 </section>
 <hr>
 
 ## Projects
 
-- Alias [Discord Bot] {JS, Node.js(NPM.js), Discord.js, Firebase}
+- Alias [Discord Bot] { JavaScript, Node.js(NPM.js), Discord.js, Firebase }
 
-- Dev Space [VS Code Extension] {JS, Node.js(NPM.js), Yo, VSC API}
+- Dev Space [VS Code Extension] { JavaScript, Node.js(NPM.js), Yo, VSC API }
 
-- meWebsite [Portfolio Website] {JS, React, Node.js(NPM.js), Next.js} (in construction)
+- meWebsite [Portfolio Website] { JavaScript, React.js(React), Node.js(NPM.js), Next.js } (in construction)
+
+- javaExcel [Simple Excel] { Java }
 
 ## Tools
 
@@ -41,22 +44,28 @@
 
 > HTML(.html), CSS(.css)
 
-> C(.c), C++(.cpp), H(.h), Rust(.rs)
+> C(.c), C++(.cpp), C#(.cs), Kotlin(.kt)
 
 > Markdow(.md)
 
 ### Works
 
-> Node.js, Next.js, Angular.js, Vue.js
+> React.js, Next.js, Angular.js, Vue.js
+
+> jQuery
 
 ### APIs
 
-> Discord.js, VSC API, Firebase
+> Discord.js, VSC API
+
+### Databases
+
+> Firebase, MongoDB, MySQL
 
 ### IDEs
 
-> VSCode, Eclipse, IntelliJ IDEA, PyCharm, CLion, XCode
+> VSCode, IntelliJ IDEA, PyCharm, CLion, Eclipse, XCode
 
 ### Other
 
-> GitHub, Git, NPM.js
+> GitHub, Git, NPM.js, Node.js
