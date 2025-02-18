@@ -8,31 +8,30 @@
 </p>
 
 <section align="center">
+  <img src="./catsleep.gif" width="200" />
+  <p>"Once a coder, always a coder"</p>
+  <p><a href="https://zer0code9.vercel.app/">My Portfolio Website</a></p>
+</section>
+
+<hr>
+
+<section align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0code9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0code9&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zer0code9" />
 </section>
-<hr>
-<section align="center">
-  <p>"Once a coder, always a coder"</p>
-  <p><a href="https://zer0code9.vercel.app/">My Portfolio Website</a></p>
-  <p>Favotire Language: JavaScript</p>
-  <p>Favotire Work: React.js</p>
-  <p>Favotire API: Discord.js</p>
-  <p>Favorite Database: Firebase</p>
-  <p>Favotire IDE: VSCode</p>
-</section>
+
 <hr>
 
 ## Projects
 
 - Alias [Discord Bot] { JavaScript, Node.js(NPM.js), Discord.js, Firebase }
 
-- Dev Space [VS Code Extension] { JavaScript, Node.js(NPM.js), Yo, VSC API }
+- Dev Space [VS Code Extension] { TypeScript, Node.js(NPM.js), Yo, VSC API }
 
-- meWebsite [Portfolio Website] { JavaScript, React.js(React), Node.js(NPM.js), Next.js } (in construction)
+- meWebsite [Portfolio Website] { JavaScript, React.js(React), Node.js(NPM.js), Next.js }
 
 - javaExcel [Simple Excel] { Java }
 
