@@ -10,15 +10,15 @@
 <section align="center">
   <img src="./catsleep.gif" width="200" />
   <p>"Once a coder, always a coder"</p>
-  <p><a href="https://zer0code9.vercel.app/">My Portfolio Website</a></p>
+  <p><a href="https://zer0code9.vercel.app/"><img src="./buttonv1.png" width="500"/></a></p>
 </section>
 
 <hr>
 
 <section align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0code9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zer0code9&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FFFFFF&text_color=808080&icon_color=FF0000&bg_color=000000&env=PAT_1" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0code9&hide_border=true&layout=compact&title_color=f00&text_color=ffa500&icon_color=f00&bg_color=000&env=PAT_1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0code9&hide_border=true&layout=compact&title_color=FFFFFF&text_color=808080&icon_color=FF0000&bg_color=000000&env=PAT_1" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zer0code9" />
 </section>
